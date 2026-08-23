@@ -8,8 +8,8 @@ import tarfile
 import re
 
 
-REPO_NAME = "Alex FSRG repo"
-REPO_DESCRIPTION = "ALex FSRG repo"
+REPO_NAME = "Alex FSRG Cydia repo"
+REPO_DESCRIPTION = "Alex FSRG Cydia repo"
 
 def get_hashes_and_size(filepath):
     md5 = hashlib.md5()
