@@ -9,7 +9,7 @@ import re
 
 
 REPO_NAME = "Alex FSRG Cydia repo"
-REPO_DESCRIPTION = "Alex FSRG Cydia repo"
+REPO_DESCRIPTION = "Alex FSRG Cydia repo (https://github.com/Alex-FSRG)"
 
 def get_hashes_and_size(filepath):
     md5 = hashlib.md5()
