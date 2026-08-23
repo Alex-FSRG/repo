@@ -1,20 +1,20 @@
-Origin: Alex FSRG repo
-Label: Alex FSRG repo
+Origin: Alex FSRG Cydia repo
+Label: Alex FSRG Cydia repo
 Suite: stable
 Version: 1.0
 Codename: ios5
 Architectures: iphoneos-arm
 Components: main
-Description: Alex FSRG repo
+Description: Alex FSRG Cydia repo (https://github.com/Alex-FSRG)
 MD5Sum:
  ec67fa9bfbc4b1ab463e342b99b91514 471 Packages
- f7af3bf23c8b958811cfa47594ba6c04 370 Packages.gz
+ 623483428422bb546c9cecd806625929 370 Packages.gz
  a5ec2f9c1799e9d08e9f82483f04cae3 407 Packages.bz2
 SHA1:
  856ddaa692cf1dff433e39198d8a1d7b4398be69 471 Packages
- 4a7cb52144bcf51e203e686021cdbbded21e4567 370 Packages.gz
+ 5d1da80fe84d3490a120bbf8c597cfe7f814701b 370 Packages.gz
  bb1ea038862d44d7d4ba847740a2b45297ca7ce0 407 Packages.bz2
 SHA256:
  6030ce41fba270c65bdd6cf593818e413c9f7ee2f59f0d728dd3fd063e011222 471 Packages
- d85f3a39046fc36d4467ee30bd47d69521e60959ea72070681ba79119fd51821 370 Packages.gz
+ 05f050fe81eb9db9640a579aa0916671913d90d14ef0984fc6da8f5459d68384 370 Packages.gz
  d0d464ec2b28a8efc12ba8f98aabb082dff5727ecfbf4bc1c7cbc1df7d78713b 407 Packages.bz2
