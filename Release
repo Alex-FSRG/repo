@@ -5,7 +5,7 @@ Version: 1.0
 Codename: ios5
 Architectures: iphoneos-arm
 Components: main
-Description: Alex FSRG Cydia repo
+Description: Alex FSRG Cydia repo (https://github.com/Alex-FSRG)
 MD5Sum:
  ec67fa9bfbc4b1ab463e342b99b91514 471 Packages
  623483428422bb546c9cecd806625929 370 Packages.gz
