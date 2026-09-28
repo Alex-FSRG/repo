@@ -8,7 +8,7 @@ Author:Alex FSRG
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=6.1)
 Filename: debs/python3.deb
-Size: 16831480
-MD5sum: 4db1b1df358180af2610b0e92df9f6ed
-SHA1: 014e2001b1ece55020adf50bbf7347fce2d9162a
-SHA256: 411284d7f55f3e20637172f5d5f2976150201ca7c1115ad76701bdbfae4a6cf9
+Size: 16831484
+MD5sum: fc634952747ddfce5e6517b23a4880f1
+SHA1: 5fe8086cd2aa2e4f2d3252f55c1ad565e2910c99
+SHA256: 764583944f40e70d00f54ad6e739e0223de2a5d8f499dc1b7c734499ee4ef332
