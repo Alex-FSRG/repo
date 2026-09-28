@@ -2,13 +2,13 @@ Package: com.fsrgteam.python3
 Name: Python 3
 Version: 3.10.11
 Architecture: iphoneos-arm
-Description: An unofficial, experimental port of CPython 3.10.11 for iOS 6 / ARMv7
+Description: An unofficial port of CPython 3.10.11 for iOS 6 / ARMv7
 Maintainer:Alex FSRG
 Author:Alex FSRG
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=6.1)
 Filename: debs/python3.deb
-Size: 12464886
-MD5sum: 999a45c9438b2810b02184085befd5b6
-SHA1: c66f7960894b3582f499abfef26f257e7835f936
-SHA256: 0217e866ad2f63066e0ccecb8494d3f38cb82c4bfc373fbc67d23bb7a2f16098
+Size: 16831480
+MD5sum: 4db1b1df358180af2610b0e92df9f6ed
+SHA1: 014e2001b1ece55020adf50bbf7347fce2d9162a
+SHA256: 411284d7f55f3e20637172f5d5f2976150201ca7c1115ad76701bdbfae4a6cf9
